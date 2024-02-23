@@ -6,7 +6,7 @@ I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human
 
 [![trophy](https://github-profile-trophy.vercel.app/?ricardobezerra22=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/ricardo-bezerra-22bb661a4/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-bezerra-22bb661a4/)
 
 ### Tecnologies :
 
