@@ -4,7 +4,7 @@
 
 I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human Resources applications. My expertise includes Vuex/Pinia, Cypress, Jest, and responsive design principles.  Beyond coding, I prioritize seamless user experiences and contribute to Customer Success initiatives. I'm well-versed in project management tools (ClickUp, Jira) and agile methodologies (Scrum, Kanban).
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ricardobezerra22&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)]
+![Ricardo bezerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobezerra22&show_icons=true)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-bezerra-22bb661a4/)
 
