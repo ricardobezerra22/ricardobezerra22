@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### Vue Developer | Customer Success Champion | Agile | SaaS & HR Expertise
+### Full-stack Developer / Cloud devops
 
-I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human Resources applications. My expertise includes Vuex/Pinia, Cypress, Jest, and responsive design principles.  Beyond coding, I prioritize seamless user experiences and contribute to Customer Success initiatives. I'm well-versed in project management tools (ClickUp, Jira) and agile methodologies (Scrum, Kanban). Also documenting components with storybook, e2e tests with cypress.js (cucumber pre-processor) and the last automatized tests with jenkins plus unit tests with jest/vue-test/utils.
+I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human Resources applications, AI Applications , Fintechs and Blockchain. My expertise includes Whole ecosystem of javascript, Cloud devops with AWS/GCP , Docker.  Beyond coding, I prioritize seamless user experiences and contribute to Customer Success initiatives. I'm well-versed in project management tools (ClickUp, Jira) and agile methodologies (Scrum, Kanban). Also documenting components with storybook, e2e tests with cypress.js (cucumber pre-processor) and the last automatized tests with jenkins plus unit tests with jest/vue-test/utils.
 
-## 1st year using github, before just used bitbucket
+## 2nd year using github, before just used bitbucket
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-bezerra-22bb661a4/)
 
