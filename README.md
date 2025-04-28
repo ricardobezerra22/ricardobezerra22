@@ -22,6 +22,7 @@ I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human
 ![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Blog](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Visitor Count](https://count.getloli.com/get/@your-username?theme=rule34)
 
 
 
