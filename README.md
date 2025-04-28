@@ -8,7 +8,7 @@ I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-bezerra-22bb661a4/)
 
-### Tecnologies :
+### 🚀 Tecnologies :
 ![Blog](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -22,16 +22,16 @@ I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human
 ![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Blog](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 
 ### Visitor Count :
 ![Visitor Count](https://count.getloli.com/get/@your-username?theme=rule34)
-
-![Profile views](https://komarev.com/ghpvc/?username=ricardobezerra22&color=blue)
-
-# Hi there 👋
-
-![Profile views](https://komarev.com/ghpvc/?username=ricardobezerra22&color=blue)
 
 Welcome to my GitHub profile!
 
