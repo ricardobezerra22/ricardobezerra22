@@ -31,7 +31,7 @@ I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human
 
 # Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=ricardobezerra22&color=blue)
 
 Welcome to my GitHub profile!
 
