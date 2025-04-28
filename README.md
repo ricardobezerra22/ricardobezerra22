@@ -24,9 +24,19 @@ I'm passionate about using Vue (Vue 2 & 3) to create user-centric SaaS and Human
 ![Blog](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Nuxt UI](https://img.shields.io/badge/Nuxt%20UI-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<!-- Node.js -->
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+<!-- MongoDB -->
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!-- OpenAI -->
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<!-- Anthropic -->
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logoColor=white)
 
 
 
